@@ -126,13 +126,13 @@ body {
 }
 
 .carousel {
-height:360px;
+height:760px;
 
 }
 
 .carousel-inner &gt; .item &gt; img {
 
-height:360px;
+height:760px;
 
 object-fit: contain;
 }
