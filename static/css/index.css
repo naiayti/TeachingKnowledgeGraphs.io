@@ -131,7 +131,8 @@ height:760px;
 }
 
 .carousel-inner &gt; .item &gt; img {
-
+width: 50%;
+margin: auto;
 height:760px;
 position: relative;
 object-fit: contain;
