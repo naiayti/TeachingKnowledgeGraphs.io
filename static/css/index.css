@@ -127,10 +127,6 @@ body {
 
 
 .carousel-inner &gt; .item &gt; img {
-width: 50%;
-margin: auto;
-position: relative;
-object-fit: contain;
 }
 
 .slider-pagination .slider-page {
