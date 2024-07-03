@@ -126,7 +126,6 @@ body {
 }
 
 .carousel {
-
 height:360px;
 
 }
@@ -136,7 +135,7 @@ height:360px;
 height:360px;
 
 object-fit: contain;
-
+}
 
 .slider-pagination .slider-page {
   background: #000000;
