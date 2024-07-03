@@ -125,6 +125,19 @@ body {
   margin: 0;
 }
 
+.carousel {
+
+height:360px;
+
+}
+
+.carousel-inner &gt; .item &gt; img {
+
+height:360px;
+
+object-fit: contain;
+
+
 .slider-pagination .slider-page {
   background: #000000;
 }
