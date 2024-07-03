@@ -906,11 +906,6 @@ var bulmaCarousel = function (_EventEmitter) {
       return this.options.effect === 'translate' ? this._breakpoint.getSlidesToShow() : 1;
     }
   }, {
-    key: 'direction',
-    get: function get() {
-      return this.element.dir.toLowerCase() === 'rtl' || this.element.style.direction === 'rtl' ? 'rtl' : 'ltr';
-    }
-  }, {
     key: 'wrapper',
     get: function get() {
       return this._ui.wrapper;
